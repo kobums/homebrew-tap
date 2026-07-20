@@ -8,6 +8,7 @@ macOS 런처 + 키보드 화면 접근 앱. ([kobums/spotlight](https://github.c
 
 ```bash
 brew tap kobums/tap
+brew trust kobums/tap        # 서드파티 tap 신뢰 (최신 Homebrew 필수)
 brew install --cask spot
 ```
 
