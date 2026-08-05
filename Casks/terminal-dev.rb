@@ -1,6 +1,6 @@
 cask "terminal-dev" do
-  version "0.1.0"
-  sha256 "5f64025b65062e0b49010c724c1e1839b9fc86563005f7fc889d79e78a8d8a04"
+  version "0.1.1"
+  sha256 "ccc1e6a8ece4ec2f06501615485991dfa713e09d0eb9ee0a02e1932bed3a1dba"
 
   url "https://github.com/kobums/terminal/releases/download/v#{version}/terminal-dev-#{version}.zip"
   name "terminal-dev"
