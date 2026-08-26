@@ -1,6 +1,6 @@
 cask "spot" do
-  version "0.3.4"
-  sha256 "4c8edd954a73e3db2cebac4132065a5b911d29f07924aff485f1dea3713ad47e"
+  version "0.3.5"
+  sha256 "5cecf1c4331a420dc297a03b0e391fd9c10fa3a6fc66c905ddd71b6ecf6b3f14"
 
   url "https://github.com/kobums/spotlight/releases/download/v#{version}/Spot-#{version}.zip"
   name "Spot"
