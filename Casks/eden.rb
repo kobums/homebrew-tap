@@ -1,6 +1,6 @@
 cask "eden" do
-  version "0.1.5"
-  sha256 "d1cd0fa1442a0fbb5a6f19ef8e8e55444a42ee784f51a46469594ea17aad2f6b"
+  version "0.2.0"
+  sha256 "029dd197537c9168488218445e284d01d14b885235e4018c4bb5f845eb3b7288"
 
   url "https://github.com/kobums/eden/releases/download/v#{version}/eden-#{version}.zip"
   name "eden"
